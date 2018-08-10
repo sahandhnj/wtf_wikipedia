@@ -1,6 +1,6 @@
 const toHtml = require('./toHtml');
 const toMarkdown = require('./toMarkdown');
-const toJSON = require('./toJson');
+const toJSON = require('./toJSON');
 const toLatex = require('./toLatex');
 const aliasList = require('../lib/aliases');
 
